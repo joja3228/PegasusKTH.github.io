@@ -19,15 +19,21 @@ body, html {
 }
 
 #pegasus {
-  /* height: 120px; */
-  margin-top: 1%;
-  margin-left: center;
-  height: 15%;
-  width: 15%;
+  /* margin-top: 10px;
+  margin-left: 50px; */
+
+  
+
+  /* margin-left: 43%; */
+  /* margin: 5%  42%; */
+
+  /* margin-right: 37.5%; */
+  height: 120px;
+  width: 150px;
 }
 
 h1{
-  color: black;
+  color: #2d3436;
   text-align: center;
   font-size: 5vmax;
   line-height: 100%;
@@ -101,14 +107,16 @@ li{
 }
 
 a:link {
-  color: black;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   background-color: transparent;
   text-decoration: none;
   font-size: 90%;
 }
 
 a{
-  color: black;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: white;
 }
 
 
